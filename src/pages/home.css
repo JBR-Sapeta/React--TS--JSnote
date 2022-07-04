@@ -1,0 +1,31 @@
+.home-container{
+    margin: 0 auto;
+    padding:0 2rem;
+    max-width: 1280px ;
+}
+
+.text-container{
+    margin: 1rem 0rem 3rem 0rem;
+    padding: 1.5rem;
+}
+
+.home-img{
+border:1px rgb(162, 162, 165) solid;
+border-radius: 20px;
+}
+.home-img img{
+    border-radius: 20px;
+}
+
+.mx5{
+    margin: 5rem 0;
+}
+
+.mb2{
+    margin-bottom: 2rem;
+}
+
+.mb5{
+    margin-bottom: 5rem;
+}
+

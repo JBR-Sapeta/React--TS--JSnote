@@ -1,0 +1,26 @@
+.logo-white{
+  color: white !important;
+}
+
+.logo-primry {
+  color: #df691a;
+}
+.navigation {
+  width: 100%;
+  padding: 1.5rem 1rem 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation nav {
+  width: 170px;
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.routeActive {
+  color: #df691a;
+}
